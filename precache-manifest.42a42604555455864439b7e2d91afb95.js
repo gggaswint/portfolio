@@ -61,7 +61,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "88866ad4e79654edbab8f607a9082dee",
-    "url": "/portfolio/static/media/resume.88866ad4.pdf"
+    "url": "/portfolio/static/media/resume_ggaswint.pdf"
   },
   {
     "revision": "71b4763d1ecf20b8594894404e0e1d3d",
