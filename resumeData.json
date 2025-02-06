@@ -1,0 +1,173 @@
+{
+  "main": {
+    "name": "Geoffrey G. Gaswint",
+    "occupation": "Ph. D. Candidate in Particle Physics",
+    "description": "During my graduate career, I have done research in neutrino based astronomy remotely at UCI and locally at our detector in Antarctica. My research mainly involves simulations and analysis of neutrino physics. I have many years experience in software engineering, either indirectly through my academic career and for fun on my own, or directly as a systems enginner at Raytheon.",
+    "image": "profilepic.jpg",
+    "bio": "Doctorate in Physics - December 2020. I have done research in neutrino based astronomy remotely at UCI and locally at our detectors in Antarctica. My research mainly involves simulations and analysis of neutrino physics. I have many years experience in software engineering, either indirectly through my academic career and for fun on my own, or directly as a systems engineer at Raytheon.",
+    "contactmessage": "Please contact me by email or phone.",
+    "email": "ggaswint@gmail.com",
+    "phone": "(623) 680-2033",
+    "address": {
+      "street": "423 Fair Dr. apt 206",
+      "city": "Costa Mesa",
+      "state": "California",
+      "zip": "92626"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/geoffrey.gaswint",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ggaswint",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I have been coding for +8 years and recenetly found a new passion in app development using react native. All of my apps are submitted to gitHub and are published on the apple and google play store. I am also fluent in Math and Physics with +5 years of teaching experience.",
+    "education": [
+      {
+        "school": "University of California, Irvine",
+        "degree": "Doctorate in Particle Physics",
+        "graduated": "December 2020",
+        "description": "Led science expeditions in Antarctica, simulated neutrino detector physics, analyzed large sets of data, further progressed theories on the origins of mass and the source of matter-antimatter asymmetry."
+      },
+      {
+        "school": "University of California, Berkeley",
+        "degree": "B.A. in Physics, B.A. in Pure Mathematics",
+        "graduated": "December 2014",
+        "description": "Studied dark matter detectors, and helped develop dark matter simulations."
+      }
+    ],
+    "work": [
+      {
+        "company": "Raytheon",
+        "title": "Systems Engineer",
+        "years": "January 2016 - September 2016",
+        "description": "Worked on simulations (classified). Known for fixing complex bugs. Left job to pursue dream of higher education."
+      },
+      {
+        "company": "University of California, Irvine",
+        "title": "Researcher: Author or Co-Author",
+        "years": "2017 - 2020",
+        "description": "Published papers under experimental and thoeretical physics (links under publications section)."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "React Native",
+        "level": "60%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "Python",
+        "level": "90%"
+      },
+      {
+        "name": "Java",
+        "level": "60%"
+      },
+      {
+        "name": "CPP",
+        "level": "50%"
+      },
+      {
+        "name": "Physics",
+        "level": "90%"
+      },
+      {
+        "name": "Math",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Angular and Polarization reconstruction abilities with implications for Neutrino reconstruction",
+        "category": "Experimental Particle Physics ",
+        "image": "NuReco.png",
+        "name": "NuReco"
+      },
+      {
+        "title": "Descrption of next gen neutrino detector in Antarctica",
+        "category": "Experimental Particle Physics ",
+        "image": "whitePaper.png",
+        "name": "WhitePaper"
+      },
+      {
+        "title": "Reconstruction of the Neutrino interaction location in the Antarctic ice",
+        "category": "Experimental Particle Physics ",
+        "image": "nuVertex.png",
+        "name": "NuVertex"
+      },
+      {
+        "title": "Framework used to help process and analyze real-time data.",
+        "category": "Experimental Particle Physics ",
+        "image": "nuRadioReco.png",
+        "name": "NuRadioReco"
+      },
+      {
+        "title": "Discusses results of the ARIANNA neutrino detector pilot phase.",
+        "category": "Experimental Particle Physics ",
+        "image": "UHEnu.png",
+        "name": "UHEnu"
+      },
+      {
+        "title": "Narrows theoris on Electroweak baryogenesis by establishing instability with additiona order 1 Yukawas.",
+        "category": "Theoretical Particle Physics ",
+        "image": "EWBG.png",
+        "name": "EWBG"
+      },
+      {
+        "title": "Discusses events in the ARIANNA station that are considered forbidden with the most naive model.",
+        "category": "Experimental Particle Physics ",
+        "image": "horizontalProp.png",
+        "name": "HorizontalProp"
+      },
+      {
+        "title": "Large game with auto firing physics.",
+        "category": "Dodge enemies as you find your way past each phase. Beat World 8 for a huge reward.",
+        "image": "dodgerMan.png",
+        "name": "DodgerMan3000"
+      },
+      {
+        "title": "A fun chat bot that tries to be as human as possible. Fully customizable.",
+        "category": "Chat with 'Comfort' or play with the meme/quote generator. Ask for weather, news, and much more.",
+        "image": "myBestFriend.png",
+        "name": "MyBestFriend"
+      },
+      {
+        "title": "My first app, requires multi-touch capabilities.",
+        "category": "Who can press two buttons the fastest? Multiple modes, and a leader board to compare with your friends.",
+        "image": "tapThat.png",
+        "name": "TapThat"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
