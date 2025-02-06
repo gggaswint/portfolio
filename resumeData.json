@@ -9,7 +9,7 @@
     "email": "ggaswint@gmail.com",
     "phone": "(623) 680-2033",
     "address": {
-      "street": "423 Fair Dr. apt 206",
+      "street": "955 Paularino Ave.",
       "city": "Costa Mesa",
       "state": "California",
       "zip": "92626"
@@ -24,7 +24,7 @@
       },
       {
         "name": "github",
-        "url": "https://github.com/ggaswint",
+        "url": "https://github.com/gggaswint",
         "className": "fa fa-github"
       }
     ]
