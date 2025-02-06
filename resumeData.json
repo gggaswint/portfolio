@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Geoffrey G. Gaswint",
-    "occupation": "Ph. D. Candidate in Particle Physics",
-    "description": "During my graduate career, I have done research in neutrino based astronomy remotely at UCI and locally at our detector in Antarctica. My research mainly involves simulations and analysis of neutrino physics. I have many years experience in software engineering, either indirectly through my academic career and for fun on my own, or directly as a systems enginner at Raytheon.",
+    "occupation": "Software Engineer at Google and Ph. D. graduate in Particle Physics",
+    "description": "I have four years of software engineering experience at Google and a Ph.D. in Physics. My expertise spans full-stack development, infrastructure, and LLM-based features, having led numerous high-impact projects at Google.",
     "image": "profilepic.jpg",
-    "bio": "Doctorate in Physics - December 2020. I have done research in neutrino based astronomy remotely at UCI and locally at our detectors in Antarctica. My research mainly involves simulations and analysis of neutrino physics. I have many years experience in software engineering, either indirectly through my academic career and for fun on my own, or directly as a systems engineer at Raytheon.",
+    "bio": "Before my industry career, I conducted neutrino-based astronomy research at UCI, working both remotely and on-site at detectors in Antarctica. My research involved simulations and data analysis of neutrino interactions, requiring advanced computational modeling. I have a strong foundation in software engineering, gained through academic research, personal projects, and industry roles, including my time as a systems engineer at Raytheon. This diverse experience allows me to approach technical challenges with a unique blend of scientific rigor, problem-solving, and software development expertise.",
     "contactmessage": "Please contact me by email or phone.",
     "email": "ggaswint@gmail.com",
     "phone": "(623) 680-2033",
