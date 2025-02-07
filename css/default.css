@@ -1102,7 +1102,7 @@ input[type="checkbox"] {
 }
 
 .bgrid-quarters [class*="column"] {
-   width: 33.33333%;
+   width: 20%;
 }
 
 .bgrid-thirds [class*="column"] {
