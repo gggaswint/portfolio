@@ -26,6 +26,11 @@
         "name": "github",
         "url": "https://github.com/gggaswint",
         "className": "fa fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/dr-geoffrey-gaswint-22951465/",
+        "className": "fa fa-linkedin"
       }
     ]
   },
